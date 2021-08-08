@@ -4,17 +4,25 @@ from pyrogram import Client, filters
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from plugins.info import *
 
-START_TEXT = """Hello {}
+START_TEXT = """<b>Hello {}
 I am a movie information finder bot.
 
 > `I can find information of all movies.`
 
-Made by @FayasNoushad"""
+Made by @Mo_Tech_YT</b>"""
 
 JOIN_BUTTONS = [
     InlineKeyboardButton(
-        text='⚙ Join Updates Channel ⚙',
-        url='https://telegram.me/FayasNoushad'
+        text='📢Updates',
+        url='https://telegram.me/Mo_Tech_YT'
+    ),
+    InlineKeyboardButton(
+        text='💥Support',
+        url='https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ'
+    ),
+     InlineKeyboardButton(
+        text='♻️Source',
+        url='https://github.com/MoTechYT/Movie-Info-Bot'
     )
 ]
 
