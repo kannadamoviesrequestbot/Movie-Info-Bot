@@ -1,7 +1,7 @@
 {
     "name": "Movie-Info-Bot",
     "description": "A movie information finder telegram bot",
-    "repository": "https://github.com/MoTechYT/Movie-Info-Bot",
+    "repository": "https://github.com/kannadamoviesrequestbot/Movie-Info-Bot",
     "keywords": [
         "movie",
         "information",
@@ -11,13 +11,13 @@
     ],
     "env": {
         "BOT_TOKEN": {
-            "description": "How To Get https://youtu.be/cB4UduCcNWs"
+            "description": "How To Get https://youtu.be/cB4UduCcWs"
         },
         "API_ID": {
-            "description": "How To Get https://youtu.be/5eEsvLAKVc0"
+            "description": "How To Get https://youtu.be/5eEsvLAVc0"
         },
         "API_HASH": {
-            "description": "How To Get https://youtu.be/5eEsvLAKVc0"
+            "description": "How To Get https://youtu.be/5eEsLAKVc0"
         }
     },
     "buildpacks": [
