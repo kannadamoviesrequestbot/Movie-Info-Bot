@@ -9,20 +9,20 @@ I am a movie information finder bot.
 
 > `I can find information of all movies.`
 
-Made by @Mo_Tech_YT</b>"""
+Made by @KANNADAMOVIES_17</b>"""
 
 JOIN_BUTTONS = [
     InlineKeyboardButton(
         text='📢Updates',
-        url='https://telegram.me/Mo_Tech_YT'
+        url='https://t.me/KANNADAMOVIES_17'
     ),
     InlineKeyboardButton(
         text='💥Support',
-        url='https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ'
+        url='https://t.me/searchkannadamovies'
     ),
      InlineKeyboardButton(
         text='♻️Source',
-        url='https://github.com/MoTechYT/Movie-Info-Bot'
+        url='https://github.com/kannadamoviesrequestbot/Movie-Info-Bot'
     )
 ]
 
